@@ -1,3 +1,3 @@
 # Knights
 
-Run <code> python puzzle.py </code>
+<p> Run <code> python puzzle.py </code> </p>
